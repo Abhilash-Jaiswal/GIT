@@ -162,6 +162,9 @@ A temporary storage area. It takes your uncommitted modifications (both staged a
 ### **What is a Pull Request (PR)?**
 A feature specific to platforms like GitHub. It is a request to the original repository owner to review the code changes you have pushed to a branch (or a fork) and merge them into their main branch.
 
+
+
+
 ---
 ⭐ *Good luck with your technical interviews! Focus on understanding the concepts, not just memorizing the commands.*
 ```
